@@ -1,1 +1,1 @@
-##1. Get website up and running
+## 1. Get website up and running
